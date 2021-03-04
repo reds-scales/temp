@@ -1,0 +1,15 @@
+---
+title: "Untitled"
+author: "Redmond Scales"
+date: "3/4/2021"
+output: html_document
+---
+
+```{r}
+library(ISLR)
+
+data = iris
+
+head(data)
+```
+
